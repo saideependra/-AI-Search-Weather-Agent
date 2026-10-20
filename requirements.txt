@@ -8,4 +8,5 @@ tavily-python
 python-dotenv
 langchainhub
 streamlit
+langchain-core
 langchain-classic
